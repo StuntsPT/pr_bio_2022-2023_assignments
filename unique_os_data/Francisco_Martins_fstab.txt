@@ -1,0 +1,21 @@
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# <file system> <dir> <type> <options> <dump> <pass>
+# /dev/nvme0n1p3
+UUID=<REDACTED>	/         	ext4      	rw,relatime	0 1
+
+# /dev/nvme0n1p1
+UUID=<REDACTED>	/efi      	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# /dev/nvme0n1p2
+UUID=<REDACTED>	/boot     	ext4      	rw,relatime	0 2
+
+# /dev/nvme0n1p4
+UUID=<REDACTED>	/home     	ext4      	rw,relatime	0 2
+
+# /dev/nvme0n1p5
+UUID=<REDACTED>	none      	swap      	defaults,pri=-2	0 0
+
+#/dev/sda1
+UUID=<REDACTED>	/data     	ext4      	rw,relatime	0 2

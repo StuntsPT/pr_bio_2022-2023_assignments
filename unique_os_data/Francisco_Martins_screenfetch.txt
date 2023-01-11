@@ -1,0 +1,19 @@
+[0m[1;36m                   -`                 [0m
+[0m[1;36m                  .o+`                [0m[1;36m francisco[0m[1m@[0m[0m[1;36mKakarotto[0m
+[0m[1;36m                 `ooo/                [0m[1;36m OS:[0m Arch Linux [0m
+[0m[1;36m                `+oooo:               [0m[1;36m Kernel:[0m x86_64 Linux 5.15.12-arch1-1[0m
+[0m[1;36m               `+oooooo:              [0m[1;36m Uptime:[0m 8h 32m[0m
+[0m[1;36m               -+oooooo+:             [0m[1;36m Packages:[0m 1456[0m
+[0m[1;36m             `/:-:++oooo+:            [0m[1;36m Shell:[0m zsh 5.8[0m
+[0m[1;36m            `/++++/+++++++:           [0m[1;36m Resolution:[0m 2560x1440[0m
+[0m[1;36m           `/++++++++++++++:          [0m[1;36m DE:[0m KDE 5.89.0 / Plasma 5.23.4[0m
+[0m[1;36m          `/+++o[0m[36moooooooo[0m[1;36moooo/`        [0m[1;36m WM:[0m KWin[0m
+[0m[36m         [0m[1;36m./[0m[36mooosssso++osssssso[0m[1;36m+`       [0m[1;36m GTK Theme:[0m Breeze [GTK2/3][0m
+[0m[36m        .oossssso-````/ossssss+`      [0m[1;36m Icon Theme:[0m breeze-dark_red[0m
+[0m[36m       -osssssso.      :ssssssso.     [0m[1;36m Disk:[0m 677G / 1,4T (51%)[0m
+[0m[36m      :osssssss/        osssso+++.    [0m[1;36m CPU:[0m AMD Ryzen 7 2700 Eight-Core @ 16x 3.2GHz[0m
+[0m[36m     /ossssssss/        +ssssooo/-    [0m[1;36m GPU:[0m AMD/ATI Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X][0m
+[0m[36m   `/ossssso+/:-        -:/+osssso+-  [0m[1;36m RAM:[0m 8980MiB / 64238MiB[0m
+[0m[36m  `+sso+:-`                 `.-/+oso: [0m
+[0m[36m `++:.                           `-/+/[0m
+[0m[36m .`                                 `/[0m
