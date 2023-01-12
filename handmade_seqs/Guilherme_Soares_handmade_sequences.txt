@@ -1,0 +1,12 @@
+Main sequence: TARTAGCGASTSACGGATRAT
+
+Unambiguous sequence 1:TAGCGACTGACGGATAAT
+Unambiguous sequence 2:TAATAGCGACTCACGGATAAT
+Unambiguous sequence 3:TAATAGCGAGTCACGGATGAT
+
+Selected sequence: "Unambiguous sequence 2:TAGTAGCGACTCACGGATAAT":
+-Reversed:"TAATAGGCACTCAGCGATGAT"
+-Complement:"ATCATCGCTGAGTGCCTATTA"
+-Reversed Complement:"ATTATCCGTGAGTCGCTACTA"
+-Standard encoding: "stop", "stop", arginine, leucine, threonine, aspartic acid, asparagine.
+-IUPAC CODE:--RLTDN
