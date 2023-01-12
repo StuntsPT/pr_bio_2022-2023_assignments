@@ -1,0 +1,16 @@
+[?1000h[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;38r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[38;1H"/etc/fstab" [readonly] 15L, 806B[1;1H[96m# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a
+# device; this may be used with UUID= as a more robust way to name devices
+# that works even if disks are added and removed. See fstab(5).
+#
+# systemd generates mount units based on this file, see systemd.mount(5).
+# Please run 'systemctl daemon-reload' after making changes here.
+#
+# <file system> <mount point>   <type>  <options>       <dump>  <pass>
+# / was on /dev/sda1 during installation[m
+[1m[96mUUID[m[93m=[m[95mf7f891fb-a9b6-42e2-8480-43ead6c59728[m /[15C[38;5;121mext4[m    [93merrors=[m[95mree[13;1Hmount-ro[m [95m0       1[m
+[96m# swap was on /dev/sda5 during installation[m
+[1m[96mUUID[m[93m=[m[95m80429f28-3a46-4cda-9f2a-4c57a64a57e2[m [93mnone[m[12C[38;5;121mswap[m    [38;5;121msw[m        [16;1H       [95m0       0[m
+/dev/sr0[8C/media/cdrom0   [38;5;121mudf[m,[38;5;121miso9660[m [38;5;121muser[m[93m,[m[38;5;121mnoauto[m     [95m0       0[m
+[94m~                                                                          [19;1H~                                                                          [20;1H~                                                                          [21;1H~                                                                          [22;1H~                                                                          [23;1H~                                                                          [24;1H~                                                                          [25;1H~                                                                          [26;1H~                                                                          [27;1H~                                                                          [28;1H~                                                                          [29;1H~                                                                          [30;1H~                                                                          [31;1H~                                                                          [32;1H~                                                                          [33;1H~                                                                          [34;1H~                                                                          [35;1H~                                                                          [36;1H~                                                                          [37;1H~                                                                          [m[38;58H15,23[9CAll[17;23H[?25h
