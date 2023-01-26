@@ -1,0 +1,16 @@
+>sequence identifier
+	ATGCATCWATCGGDATHCGTN
+>first possible unambiguous sequence
+	ATGCATCTATCGGAATCCGTA
+>second possible unambiguous sequence
+	ATGCATCTATCGGGATTCGTC
+>third possible unambiguous sequence
+	ATGCATCTATCGGTATACGTT
+>reverse of the second possible unambiguous sequence
+	CTGCTTAGGGCTATCTACGTA
+>complement of the second possible unambiguous sequence
+	TACGTAGATAGCCCTAAGCAG
+>reverse complement of the second possible unambiguous sequence
+	GACGAATCCCGATAGATGCAT
+>amino-acid chain of the second possible unambiguos sequence
+	MHLSGFV

@@ -1,0 +1,20 @@
+[0m[1;34m             .',;::::;,'.		 [0m[1;34m antoniopereira[0m[1m@[0m[0m[1;34mfedora[0m
+[0m[1;34m         .';:cccccccccccc:;,.        	 [0m[1;34m OS:[0m Fedora [0m
+[0m[1;34m      .;cccccccccccccccccccccc;.     	 [0m[1;34m Kernel:[0m x86_64 Linux 6.0.7-301.fc37.x86_64[0m
+[0m[1;34m    .:cccccccccccccccccccccccccc:.   	 [0m[1;34m Uptime:[0m 5m[0m
+[0m[1;34m  .;ccccccccccccc;[0m[1;37m.:dddl:.[0m[1;34m;ccccccc;.     [0m[1;34m Packages:[0m 1789[0m
+[0m[1;34m .:ccccccccccccc;[0m[1;37mOWMKOOXMWd[0m[1;34m;ccccccc:.    [0m[1;34m Shell:[0m bash[0m
+[0m[1;34m.:ccccccccccccc;[0m[1;37mKMMc[0m[1;34m;cc;[0m[1;37mxMMc[0m[1;34m;ccccccc:.   [0m[1;34m Resolution:[0m No X Server[0m
+[0m[1;34m,cccccccccccccc;[0m[1;37mMMM.[0m[1;34m;cc;[0m[1;37m;WW:[0m[1;34m;cccccccc,   [0m[1;34m DE:[0m GNOME 43.1[0m
+[0m[1;34m:cccccccccccccc;[0m[1;37mMMM.[0m[1;34m;cccccccccccccccc:   [0m[1;34m WM:[0m Not Found[0m
+[0m[1;34m:ccccccc;[0m[1;37moxOOOo[0m[1;34m;[0m[1;37mMMM0OOk.[0m[1;34m;cccccccccccc:   [0m[1;34m GTK Theme:[0m Adwaita [GTK2/3][0m
+[0m[1;34mcccccc;[0m[1;37m0MMKxdd:[0m[1;34m;[0m[1;37mMMMkddc.[0m[1;34m;cccccccccccc;   [0m[1;34m Icon Theme:[0m Adwaita[0m
+[0m[1;34mccccc;[0m[1;37mXM0'[0m[1;34m;cccc;[0m[1;37mMMM.[0m[1;34m;cccccccccccccccc'   [0m[1;34m Font:[0m Cantarell 11[0m
+[0m[1;34mccccc;[0m[1;37mMMo[0m[1;34m;ccccc;[0m[1;37mMMW.[0m[1;34m;ccccccccccccccc;    [0m[1;34m Disk:[0m 6,7G / 39G (18%)[0m
+[0m[1;34mccccc;[0m[1;37m0MNc.[0m[1;34mccc[0m[1;37m.xMMd[0m[1;34m;ccccccccccccccc;     [0m[1;34m CPU:[0m Intel Core i3-10100F @ 4x 3.6GHz[0m
+[0m[1;34mcccccc;[0m[1;37mdNMWXXXWM0:[0m[1;34m;cccccccccccccc:,      [0m[1;34m GPU:[0m llvmpipe (LLVM 15.0.0, 256 bits)[0m
+[0m[1;34mcccccccc;[0m[1;37m.:odl:.[0m[1;34m;cccccccccccccc:,.       [0m[1;34m RAM:[0m 2248MiB / 3917MiB[0m
+[0m[1;34m:cccccccccccccccccccccccccccc:'.         [0m
+[0m[1;34m.:cccccccccccccccccccccc:;,..      [0m
+[0m[1;34m  '::cccccccccccccc::;,.		 [0m
+[0m[1;34m					 [0m
