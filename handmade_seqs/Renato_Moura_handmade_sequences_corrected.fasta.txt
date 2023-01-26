@@ -1,0 +1,16 @@
+>sequence identifier
+ATGGCNTTYCTNATHACATGA
+>first unambiguous sequence
+ATGGCCTTCCTAATCACATGA
+>second unambiguous sequence
+ATGGCTTTTCTAATTACATGA
+>third unambiguous sequence
+ATGGCATTCCTTATAACATGA
+>its reverse
+AGTACAATATTCCTTACGGTA
+>its complement
+TACCGTAAGGAATATTGTACT
+>its reverse-complement
+TCATGTTATAAGGAATGCCAT
+>IUPAC encoding
+MAFLIT*
