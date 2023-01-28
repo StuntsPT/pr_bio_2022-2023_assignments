@@ -1,0 +1,18 @@
+>Sequence identifier
+ATGMCGGAWGAACYCGASTAG
+>1st unambiguous sequence
+ATGACGGAAGAACCCGAGTAG
+>2nd unambiguous sequence
+ATGCCGGATGAACTCGACTAG
+>3rd unambiguous sequence
+ATGACGGATGAACTCGAGTAG
+>Reverse of the 3rd unambiguous sequence
+GATGAGCTCAAGTAGGCAGTA
+>Complement of the 3rd unambiguous sequence
+TACTGCCTACTTGAGCTCATC
+>Reverse-complement of the 3rd unambiguous sequence
+CTACTCGAGTTCATCCGTCAT
+>Amino-acid chain produced by the 3rd unambiguous sequence
+MTDELE*
+
+
