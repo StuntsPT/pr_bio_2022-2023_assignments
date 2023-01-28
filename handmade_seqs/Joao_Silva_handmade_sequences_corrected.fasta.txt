@@ -1,0 +1,24 @@
+>Ambiguous Sequence identifier
+AYGCTTCSGCMAGACTCAVAA
+
+>Possible unambiguous sequence 1
+ATGCTTCCGCAAGACTCAGAA
+
+>Possible unambiguous sequence 2
+ACGCTTCGGCCAGACTCACAA
+
+>Possible unambiguous sequence 3
+ATGCTTCCGCCAGACTCAAAA
+
+
+>Reverse not ambiguous sequence 1
+AAGACTCAGAACGCCTTCGTA
+
+>Complement of not ambiguous sequence 1
+TACGAAGGCGTTCTGAGTCTT
+
+>Reverse-complement of not ambiguous sequence 1
+TTCTGAGTCTTGCGGAAGCAT
+
+>Translation of not ambiguous sequence 1
+MLPQDSE
