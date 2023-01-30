@@ -1,0 +1,18 @@
+[0m[1;37m                                    [0m[1;30m root[0m[1m@[0m[0m[1;30mVirtualBoxFranciscaFigueiredo202200580[0m
+[0m[1;37m         eeeeeeeeeeeeeeeee          [0m[1;30m OS:[0m Elementary 6.1 jolnir[0m
+[0m[1;37m      eeeeeeeeeeeeeeeeeeeeeee       [0m[1;30m Kernel:[0m x86_64 Linux 5.11.0-43-generic[0m
+[0m[1;37m    eeeee  eeeeeeeeeeee   eeeee     [0m[1;30m Uptime:[0m 7m[0m
+[0m[1;37m  eeee   eeeee       eee     eeee   [0m[1;30m Packages:[0m 1553[0m
+[0m[1;37m eeee   eeee          eee     eeee  [0m[1;30m Shell:[0m sudo[0m
+[0m[1;37meee    eee            eee       eee [0m[1;30m Resolution:[0m 2560x1440[0m
+[0m[1;37meee   eee            eee        eee [0m[1;30m WM:[0m Gala[0m
+[0m[1;37mee    eee           eeee       eeee [0m[1;30m WM Theme:[0m Adwaita[0m
+[0m[1;37mee    eee         eeeee      eeeeee [0m[1;30m GTK Theme:[0m Adwaita [GTK3][0m
+[0m[1;37mee    eee       eeeee      eeeee ee [0m[1;30m Disk:[0m 7.8G / 46G (19%)[0m
+[0m[1;37meee   eeee   eeeeee      eeeee  eee [0m[1;30m CPU:[0m Intel Core i9-9900KF @ 4x 3.6GHz[0m
+[0m[1;37meee    eeeeeeeeee     eeeeee    eee [0m[1;30m GPU:[0m VMware SVGA II Adapter[0m
+[0m[1;37m eeeeeeeeeeeeeeeeeeeeeeee    eeeee  [0m[1;30m RAM:[0m 1092MiB / 7954MiB[0m
+[0m[1;37m  eeeeeeee eeeeeeeeeeee      eeee   [0m
+[0m[1;37m    eeeee                 eeeee     [0m
+[0m[1;37m      eeeeeee         eeeeeee       [0m
+[0m[1;37m         eeeeeeeeeeeeeeeee          [0m
