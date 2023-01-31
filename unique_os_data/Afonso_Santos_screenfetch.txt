@@ -1,0 +1,18 @@
+[0m[1m             .;ldkO0000Okdl;.               [0m[1;32m fonos[0m[1m@[0m[0m[1;32mlocalhost.localdomain[0m
+[0m[1m         .;d00xl:^''''''^:ok00d;.           [0m[1;32m OS:[0m openSUSE 20221122[0m
+[0m[1m       .d00l'                'o00d.         [0m[1;32m Kernel:[0m x86_64 Linux 6.0.8-1-default[0m
+[0m[1m     .d0K^'[0m[1;32m  Okxoc;:,.          [0m[1m^O0d.       [0m[1;32m Uptime:[0m 4m[0m
+[0m[1m    .OVV[0m[1;32mAK0kOKKKKKKKKKKOxo:,      [0m[1mlKO.      [0m[1;32m Packages:[0m 2168[0m
+[0m[1m   ,0VV[0m[1;32mAKKKKKKKKKKKKK0P^[0m[1m,,,[0m[1;32m^dx:[0m[1m    ;00,     [0m[1;32m Shell:[0m bash 5.2.9[0m
+[0m[1m  .OVV[0m[1;32mAKKKKKKKKKKKKKk'[0m[1m.oOPPb.[0m[1;32m'0k.[0m[1m   cKO.    [0m[1;32m Resolution:[0m 2880x1800[0m
+[0m[1m  :KV[0m[1;32mAKKKKKKKKKKKKKK: [0m[1mkKx..dd [0m[1;32mlKd[0m[1m   'OK:    [0m[1;32m DE:[0m KDE 5.100.0 / Plasma 5.26.3[0m
+[0m[1m  lKl[0m[1;32mKKKKKKKKKOx0KKKd [0m[1m^0KKKO' [0m[1;32mkKKc[0m[1m   lKl    [0m[1;32m WM:[0m KWin[0m
+[0m[1m  lKl[0m[1;32mKKKKKKKKKK;.;oOKx,..[0m[1m^[0m[1;32m..;kKKK0.[0m[1m  lKl    [0m[1;32m GTK Theme:[0m Breeze [GTK2/3][0m
+[0m[1m  :KA[0m[1;32mlKKKKKKKKK0o;...^cdxxOK0O/^^'  [0m[1m.0K:    [0m[1;32m Icon Theme:[0m breeze-dark[0m
+[0m[1m   kKA[0m[1;32mVKKKKKKKKKKKK0x;,,......,;od  [0m[1mlKP     [0m[1;32m Disk:[0m 55G / 276G (20%)[0m
+[0m[1m   '0KA[0m[1;32mVKKKKKKKKKKKKKKKKKK00KKOo^  [0m[1mc00'     [0m[1;32m CPU:[0m 12th Gen Intel Core i7-1260P @ 4x 2.496GHz[0m
+[0m[1m    'kKA[0m[1;32mVOxddxkOO00000Okxoc;''   [0m[1m.dKV'      [0m[1;32m GPU:[0m SVGA3D; build[0m
+[0m[1m      l0Ko.                    .c00l'       [0m[1;32m RAM:[0m 1565MiB / 5916MiB[0m
+[0m[1m       'l0Kk:.              .;xK0l'         [0m
+[0m[1m          'lkK0xc;:,,,,:;odO0kl'            [0m
+[0m[1m              '^:ldxkkkkxdl:^'              [0m
