@@ -1,0 +1,21 @@
+..............                                  
+            ..,;:ccc,.                           root@kali
+          ......''';lxO.                         OS: Kali Linux 
+.....''''..........,:ld;                         Kernel: i686 Linux 5.15.0-kali3-686-pae
+           .';;;:::;,,.x,                        Uptime: 10m
+      ..'''.            0Xxoc:,.  ...            Packages: 2290
+  ....                ,ONkc;,;cokOdc',.          Shell: sudo
+ .                   OMo           ':ddo.        Resolution: 800x600
+                    dMc               :OO;       DE: Xfce
+                    0M.                 .:o.     WM: Xfwm4
+                    ;Wd                          GTK Theme: Kali-Dark [GTK2]
+                     ;XO,                        Icon Theme: Flat-Remix-Blue-Dark
+                       ,d0Odlc;,..               Font: Cantarell 11
+                           ..',;:cdOOd::,.       Disk: 8.6G / 79G (12%)
+                                    .:d;.':;.    CPU: Intel Core i5-10300H @ 2x 2.496GHz
+                                       'd,  .'   GPU: VMware SVGA II Adapter
+                                         ;l   .. RAM: 653MiB / 2012MiB
+                                          .o    
+                                            c   
+                                            .'  
+                                             .  
