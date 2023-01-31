@@ -1,0 +1,18 @@
+[0m[1;37m         _,met$$$$$gg.          [0m[1;31m bs[0m[1m@[0m[0m[1;31mpcprbio[0m
+[0m[1;37m      ,g$$$$$$$$$$$$$$$P.       [0m[1;31m OS:[0m Debian 11 bullseye[0m
+[0m[1;37m    ,g$$P""       """Y$$.".     [0m[1;31m Kernel:[0m x86_64 Linux 5.10.0-19-amd64[0m
+[0m[1;37m   ,$$P'              `$$$.     [0m[1;31m Uptime:[0m 57m[0m
+[0m[1;37m  ',$$P       ,ggs.     `$$b:   [0m[1;31m Packages:[0m 1609[0m
+[0m[1;37m  `d$$'     ,$P"'   [0m[1;31m.[0m[1;37m    $$$    [0m[1;31m Shell:[0m bash 5.1.4[0m
+[0m[1;37m   $$P      d$'     [0m[1;31m,[0m[1;37m    $$P    [0m[1;31m Resolution:[0m 1024x768[0m
+[0m[1;37m   $$:      $$.   [0m[1;31m-[0m[1;37m    ,d$$'    [0m[1;31m DE:[0m GNOME 3.38.4[0m
+[0m[1;37m   $$\;      Y$b._   _,d$P'     [0m[1;31m WM:[0m Mutter[0m
+[0m[1;37m   Y$$.    [0m[1;31m`.[0m[1;37m`"Y$$$$P"'         [0m[1;31m WM Theme:[0m [0m
+[0m[1;37m   `$$b      [0m[1;31m"-.__              [0m[1;31m GTK Theme:[0m Adwaita [GTK2/3][0m
+[0m[1;37m    `Y$$                        [0m[1;31m Icon Theme:[0m Adwaita[0m
+[0m[1;37m     `Y$$.                      [0m[1;31m Font:[0m Cantarell 11[0m
+[0m[1;37m       `$$b.                    [0m[1;31m Disk:[0m 4.6G / 29G (17%)[0m
+[0m[1;37m         `Y$$b.                 [0m[1;31m CPU:[0m Intel Core i5-1035G1 @ 1.19GHz[0m
+[0m[1;37m            `"Y$b._             [0m[1;31m GPU:[0m VMware SVGA II Adapter[0m
+[0m[1;37m                `""""           [0m[1;31m RAM:[0m 634MiB / 960MiB[0m
+[0m[1;37m                                [0m
