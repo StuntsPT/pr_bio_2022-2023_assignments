@@ -1,0 +1,16 @@
+>Ambigous base pair sequence:
+ATGCTSGATCGCTRTCTGRST
+>Unambiguous sequences(1º):
+ATGCTGGATCGCTATCTGACT
+>Unambiguous sequences(2º):
+ATGCTCGATCGCTGTCTGGCT
+>Unambiguous sequences(3º):
+ATGCTGGATCGCTATCTGGGT
+>Unambiguous sequences(1º)-Its reverse:
+TCAGTCTATCGCTAGGTCGTA
+>Unambiguous sequences(1º)-Its complement:
+TACGACCTAGCGATAGACTGA
+>Unambiguous sequences(1º)-Its reverse-complement:
+AGTCAGATAGCGATCCAGCAT
+>Unambiguous sequences(1º)- IUPAC amino acid code: 
+MLDRYLT
