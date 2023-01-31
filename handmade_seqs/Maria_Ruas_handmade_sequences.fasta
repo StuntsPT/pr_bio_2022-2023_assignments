@@ -1,0 +1,16 @@
+>Ambiguous_sequence_identifier
+AWCGGCWTTAGRGCTACYGCT
+>Unambiguous_01
+AACGGCATTAGAGCTACTGCT
+>Unambiguous_02
+ATCGGCATTAGAGCTACTGCT
+>Unambiguous_03
+AACGGCTTTAGGGCTACCGCT
+>The_reverse_of_unabiguous_02
+TCGTCATCGAGATTACGGCTA
+>The_complement_of_unabiguous_02
+TAGCCGTAATCTCGATGACGA
+>The_reverse-complement_of_unabiguous_02
+AGCAGTAGCTCTAATGCCGAT
+>The_amino-acid_chain_it_produces
+Alanine
