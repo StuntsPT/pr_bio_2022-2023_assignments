@@ -1,0 +1,38 @@
+[?1000h[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;83r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[83;1H[97m[41mE325: ATTENTION[m
+
+Found a swap file by the name "/var/tmp/fstab.swp"
+
+[10Cowned by: kali   dated: Fri Dec 02 10:18:24 2022
+
+[9Cfile name: ~kali/etc/fstab
+
+[10Cmodified: YES
+
+[9Cuser name: kali   host name: kali
+
+[8Cprocess ID: 6445
+
+While opening file "etc/fstab"
+
+      CANNOT BE FOUND
+
+(1) Another program may be editing the same file.  If this is the case,
+
+    be careful not to end up with two different instances of the same
+
+    file when making changes.  Quit, or continue with caution.
+
+(2) An edit session for this file crashed.
+
+    If this is the case, use ":recover" or "vim -r etc/fstab"
+
+    to recover the changes (see ":help recovery").
+
+    If you did this already, delete the swap file "/var/tmp/fstab.swp"
+
+    to avoid this message.
+
+[?1000l
+[38;5;121mSwap file "/var/tmp/fstab.swp" already exists![m
+
+[38;5;121m[O]pen Read-Only, (E)dit anyway, (R)ecover, (D)elete it, (Q)uit, (A)bort: [?25h
