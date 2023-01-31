@@ -1,0 +1,21 @@
+[0m[1;31m             PPPPPPPPPPPPPP             [0m
+[0m[1;31m         PPPP[0m[1;37mMMMMMMM[0m[1;31mPPPPPPPPPPP         [0m
+[0m[1;31m       PPPP[0m[1;37mMMMMMMMMMM[0m[1;31mPPPPPPPP[0m[1;37mMM[0m[1;31mPP       [0m
+[0m[1;31m     PPPPPPPP[0m[1;37mMMMMMMM[0m[1;31mPPPPPPPP[0m[1;37mMMMMM[0m[1;31mPP     [0m[1;31m bernardo[0m[1m@[0m[0m[1;31mbernardo-virtualbox[0m
+[0m[1;31m   PPPPPPPPPPPP[0m[1;37mMMMMMM[0m[1;31mPPPPPPP[0m[1;37mMMMMMMM[0m[1;31mPP   [0m[1;31m OS:[0m Peppermint 11.5 null[0m
+[0m[1;31m  PPPPPPPPPPPP[0m[1;37mMMMMMMM[0m[1;31mPPPP[0m[1;37mM[0m[1;31mP[0m[1;37mMMMMMMMMM[0m[1;31mPP  [0m[1;31m Kernel:[0m x86_64 Linux 5.10.0-19-amd64[0m
+[0m[1;31m PP[0m[1;37mMMMM[0m[1;31mPPPPPPPPPP[0m[1;37mMMM[0m[1;31mPPPPP[0m[1;37mMMMMMMM[0m[1;31mP[0m[1;37mMM[0m[1;31mPPPP [0m[1;31m Uptime:[0m 6m[0m
+[0m[1;31m P[0m[1;37mMMMMMMMMMM[0m[1;31mPPPPPP[0m[1;37mMM[0m[1;31mPPPPP[0m[1;37mMMMMMM[0m[1;31mPPPPPPPP [0m[1;31m Packages:[0m 1589[0m
+[0m[1;31mP[0m[1;37mMMMMMMMMMMMM[0m[1;31mPPPPP[0m[1;37mMM[0m[1;31mPP[0m[1;37mM[0m[1;31mP[0m[1;37mMM[0m[1;31mP[0m[1;37mMM[0m[1;31mPPPPPPPPPPP[0m[1;31m Shell:[0m bash 5.1.4[0m
+[0m[1;31mP[0m[1;37mMMMMMMMMMMMMMMMM[0m[1;31mPP[0m[1;37mM[0m[1;31mP[0m[1;37mMMM[0m[1;31mPPPPPPPPPPPPPPPP[0m[1;31m Resolution:[0m 1680x1050[0m
+[0m[1;31mP[0m[1;37mMMM[0m[1;31mPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP[0m[1;37mMMMMM[0m[1;31mP[0m[1;31m DE:[0m Xfce[0m
+[0m[1;31mPPPPPPPPPPPPPPPP[0m[1;37mMMM[0m[1;31mP[0m[1;37mM[0m[1;31mP[0m[1;37mMMMMMMMMMMMMMMMM[0m[1;31mPP[0m[1;31m WM:[0m Xfwm4[0m
+[0m[1;31mPPPPPPPPPPP[0m[1;37mMM[0m[1;31mP[0m[1;37mMM[0m[1;31mPPPP[0m[1;37mMM[0m[1;31mPPPPP[0m[1;37mMMMMMMMMMMM[0m[1;31mPP[0m[1;31m WM Theme:[0m Default[0m
+[0m[1;31m PPPPPPPP[0m[1;37mMMMMMM[0m[1;31mPPPPP[0m[1;37mMM[0m[1;31mPPPPPP[0m[1;37mMMMMMMMMM[0m[1;31mPP [0m[1;31m GTK Theme:[0m Peppermint-10-Red-Dark [GTK2][0m
+[0m[1;31m PPPP[0m[1;37mMM[0m[1;31mP[0m[1;37mMMMMMMM[0m[1;31mPPPPPP[0m[1;37mMM[0m[1;31mPPPPPPPPPP[0m[1;37mMMMM[0m[1;31mPP [0m[1;31m Icon Theme:[0m Pepirus[0m
+[0m[1;31m  PP[0m[1;37mMMMMMMMMM[0m[1;31mP[0m[1;37mM[0m[1;31mPPPP[0m[1;37mMMMMMM[0m[1;31mPPPPPPPPPPPPP  [0m[1;31m Font:[0m Sans 10[0m
+[0m[1;31m   PP[0m[1;37mMMMMMMM[0m[1;31mPPPPPPP[0m[1;37mMMMMMM[0m[1;31mPPPPPPPPPPPP   [0m[1;31m Disk:[0m 4,1G / 67G (7%)[0m
+[0m[1;31m     PP[0m[1;37mMMMM[0m[1;31mPPPPPPPPP[0m[1;37mMMMMMMM[0m[1;31mPPPPPPPP     [0m[1;31m CPU:[0m AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx @ 2x 2,096GHz[0m
+[0m[1;31m       PP[0m[1;37mMM[0m[1;31mPPPPPPPP[0m[1;37mMMMMMMMMMM[0m[1;31mPPPP       [0m[1;31m GPU:[0m llvmpipe (LLVM 11.0.1, 256 bits)[0m
+[0m[1;31m         PPPPPPPPPP[0m[1;37mMMMMMMMM[0m[1;31mPPPP         [0m[1;31m RAM:[0m 707MiB / 7941MiB[0m
+[0m[1;31m             PPPPPPPPPPPPPP             [0m
