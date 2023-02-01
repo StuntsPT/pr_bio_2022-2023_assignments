@@ -1,0 +1,21 @@
+grep: warning: stray \ before "
+grep: warning: stray \ before "
+
+                  +I+		         saracmdc@sara-virtualbox
+                 +777+                   OS: EndeavourOS rolling rolling
+	        +77777++		 Kernel: x86_64 Linux 6.0.11-zen1-1-zen
+	       +7777777++		 Uptime: 0m
+	      +7777777777++		 Packages: 882
+	    ++7777777777777++		 Shell: bash
+	   ++777777777777777+++       	 Resolution: 1920x940
+	 ++77777777777777777++++         WM: OpenBox
+	++7777777777777777777++++        WM Theme: Arc-Darker
+      +++777777777777777777777++++	 GTK Theme: Arc-Dark [GTK2/3]
+    ++++7777777777777777777777+++++  	 Icon Theme: Arc-X-D
+   ++++77777777777777777777777+++++  	 Font: Noto Sans 10
+  +++++777777777777777777777777+++++	 Disk: 6,7G / 21G (34%)
+       +++++++7777777777777777++++++	 CPU: AMD 3020e with Radeon Graphics @ 2x 1.198GHz
+      +++++++++++++++++++++++++++++      GPU: llvmpipe (LLVM 14.0.6, 256 bits)
+     +++++++++++++++++++++++++++         RAM: 639MiB / 1972MiB
+                                      	
+
