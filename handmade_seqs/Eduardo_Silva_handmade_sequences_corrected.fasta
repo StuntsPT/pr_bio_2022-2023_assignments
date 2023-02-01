@@ -1,0 +1,17 @@
+>Ambiguous sequence indentifier
+ACTCCYGGANAGTTCGAHTGD
+>Not ambiguous another sequence identifire 1
+ACTCCTGGATAGTTCGATTGT
+>Not ambiguous another sequence identifire 2
+ACTCCCGGACAGTTCGACTGG
+>Not ambiguous another sequence identifire 3
+ACTCCCGGAAAGTTCGAATGG
+>Reverse not ambinguous 1
+TGTTAGCTTGATAGGTCCTCA
+>Complement of not ambiguous 1 
+TGAGGACCTATCAAGCTAACA
+>Reverse of complement of not ambiguous 1
+ACAATCGAACTATCCAGGAGT
+>Translacion of not ambinguous 1
+TPG*FDC
+
