@@ -1,0 +1,16 @@
+﻿>Ambiguous sequence
+MKGTATGCHLTAA
+>Unambiguous sequence 1
+ATGAAAGTATGCCATTTATAA
+>Unambiguous sequence 2
+ATGAAGGTAUGCCATTTATAA
+>Unambiguous sequence 3
+ATGAAGGTATGCCATTTGTAA
+>Unambiguous sequence 1 - reverse
+AATATTTACCGTATGAAAGTA
+>Unambiguous sequence 1 - complement
+TACTTTCATACGGTAAATATT
+>Unambiguous sequence 1 - reverse-complement
+TTATAAATGGCATACTTTCAT
+>Unambiguous sequence 1 - amino-acid chain
+MKVCHL*
