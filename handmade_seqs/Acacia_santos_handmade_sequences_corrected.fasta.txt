@@ -1,0 +1,16 @@
+>Sequence with ambiguities
+TACTRGCASTCAYGTATT
+>Unambiguous sequence 1
+TACTAGTGTXAXTCATGTATT
+>Unambiguous sequence 2
+TACTAGAGTCACTCACGTATT
+>Unambiguous sequence 3
+TACTGGAGTCAGTCACGTATT
+>Reverse of unambiguous 3
+TTATGCACTGACTGAGGTCAT
+>Complement of unambiguous 3
+ATGACCTCAGTCAGTGCATAA
+>Reverse complement of unambiguous 3
+AATACGTGACTGACTCCAGTA
+>Translation unambiguous 3
+MTSVSASTOP

@@ -1,0 +1,33 @@
+                                       acacia@acacia-VirtualBox 
+
+MMMMMMMMMMMMMMMMMMMMMMMMMmds+.        OS: Linuxmint 21.1 vera 
+
+MMm----::-://////////////oymNMd+`     Kernel: x86_64 Linux 5.15.0-56-generic 
+
+MMd      /++                -sNMd:    Uptime: 2h 29m 
+
+MMNso/`  dMM    `.::-. .-::.` .hMN:   Packages: 2167 
+
+ddddMMh  dMM   :hNMNMNhNMNMNh: `NMm   Shell: bash 5.1.16 
+
+     NMm  dMM  .NMN/-+MMM+-/NMN` dMM   Resolution: 800x600 
+
+     NMm  dMM  -MMm  `MMM   dMM. dMM   DE: GNOME 
+
+     NMm  dMM  -MMm  `MMM   dMM. dMM   WM: Muffin 
+
+     NMm  dMM  .mmd  `mmm   yMM. dMM   WM Theme: Mint-Y-Dark-Purple (Mint-Y) 
+
+     NMm  dMM`  ..`   ...   ydm. dMM   GTK Theme: Mint-Y-Aqua [GTK2/3] 
+
+     hMM- +MMd/-------...-:sdds  dMM   Icon Theme: Mint-Y-Aqua 
+
+     -NMm- :hNMNNNmdddddddddy/`  dMM   Font: Ubuntu 10 
+
+      -dMNs-``-::::-------.``    dMM   Disk: 11G / 60G (19%) 
+
+       `/dMNmy+/:-------------:/yMMM   CPU: 12th Gen Intel Core i5-12400F @ 2.496GHz 
+
+          ./ydNMMMMMMMMMMMMMMMMMMMMM   GPU: llvmpipe (LLVM 13.0.1, 256 bits) 
+
+             \.MMMMMMMMMMMMMMMMMMM     RAM: 1093MiB / 3924MiB 
