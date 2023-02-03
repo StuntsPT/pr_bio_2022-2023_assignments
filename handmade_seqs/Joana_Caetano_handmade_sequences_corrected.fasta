@@ -1,0 +1,16 @@
+>Ambigous base pair sequence:
+ATGGANCDAAGWMGVCAATAT
+>Unambiguous sequences(1º):
+ATGGACCGAAGTCGACAATAT  
+>Unambiguous sequences(2º):
+ATGGAGCAAAGAAGGCAATAT  
+>Unambiguous sequences(3º):
+ATGGATCTAAGTCGCCAATAT  
+>Unambiguous sequences(2º)-Its reverse:
+TATAACGGAAGAAACGAGGTA
+>Unambiguous sequences(2º)-Its complement:
+TACCTCGTTTCTTCCGTTATA
+>Unambiguous sequences(2º)-Its reverse-complement:
+ATATTGCCTTCTTTGCTCCAT
+>Unambiguous sequences(2º)- IUPAC amino acid code:
+ILPSLLH
