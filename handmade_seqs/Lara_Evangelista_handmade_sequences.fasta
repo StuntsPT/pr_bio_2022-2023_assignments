@@ -1,0 +1,23 @@
+>21 Base Pair Sequence
+ACYTGDAGWGCVCGTACTGAT
+
+>Possible Unambiguous Sequence 1
+ACCTGAAGTGCGCGTACTGAT 
+
+>Possible Unambiguous Sequence 2
+ACTTGTAGAGCCCGTACTGAT
+
+>Possible Unambiguous Sequence 3
+ACTTGGAGTGCACGTACTGAT
+
+>Reverse of Unambiguous Sequence 3
+TAGTCATGCACGTGAGGTTCA
+
+>Complement of Unambiguous Sequence 3
+TGAACCTCACGTGCATGACTA
+
+>Reverse-Complement of Unambiguous Sequence 3
+ATCAGTACGTGCACTCCAAGT
+
+>Translation of Unambiguous Sequence 3 to Amino-Acids:
+TWSARTD
