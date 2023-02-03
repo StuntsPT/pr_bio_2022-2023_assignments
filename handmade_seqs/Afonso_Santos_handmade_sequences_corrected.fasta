@@ -1,0 +1,19 @@
+>Sequence with ambiguities
+ATGTCCRACGWATCSTCYTAG
+
+>Potential unambiguous sequence 1
+ATGTCCAACGTATCCTCCTAG
+>Potential unambiguous sequence 2
+ATGTCCGACGAATCGTCTTAG
+>Potential unambiguous sequence 3
+ATGTCCGACGAATCGTCCTAG
+
+>Reverse of potential sequence 2
+GATTCTGCTAAGCAGCCTGTA
+>Complement of potential sequence 2
+TACAGGCTGCTTAGCAGAATC
+>Reverse-complement of potential sequence 2
+CTAAGACGATTCGTCGGACAT
+
+>Aminoacid chain produced (potential sequence 2)
+MSDESS*
