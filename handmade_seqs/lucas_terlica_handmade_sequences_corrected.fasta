@@ -1,0 +1,16 @@
+>Ambigous sequences:
+ATGRACTMAGGCYAACASGCA
+>Unabinguous sequences(1º):
+ATGAACTCAGGCCAACAGGCA  
+>Unabinguous sequences(2º):
+ATGGACTAAGGCTAAGAGGCA  
+>Unabinguous sequences(3º):
+ATGGACTCAGGCCAAGACGCA  
+>Unabinguous sequences(3º)-Its reverse:
+ACGCAGAACCGGACTCAGGTA
+>Unabinguous sequences(3º)-Its complement:
+TACTTGATTCCGGGTCTGCGT
+>Unabinguous sequences(3º)-Its reverse-complement:
+TGCGTCTGGGCCTTAGTTCAT
+>Unabinguous sequences(3º)- IUPAC animo acid code:
+MNSGQDA
