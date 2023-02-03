@@ -1,0 +1,16 @@
+>Main sequence: 
+ATGDTAGGCMGTAMTGCDTGA
+>Unambiguous sequences(1º):
+ATGATAGGCAGTAATGCATGA
+>Unambiguous sequences(2º):
+ATGGTAGGCCGTACTGCGTGA
+>Unambiguous sequences(3º):
+ATGATAGGCCGTACTGCATGA
+>Reversed Unambiguos sequences(1º):
+AGTACGTAATGACGGATAGTA
+>Complemented Unambiguos sequences(1º): 
+TACTATCCGTCATTACGTACT
+>Reversed complemented Unambiguos sequences(1º):
+ATGTGCATTACTGCCTATCAT 
+>IUPAC CODE Unambiguos sequences(1º): 
+MIGSNAS*
