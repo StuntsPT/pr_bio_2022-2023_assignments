@@ -1,0 +1,25 @@
+>Ambiguous sequence identifier
+AYTCCGGTNGCATGDTCAHGT
+
+>Not ambiguous another sequence identifier 1
+ATTCCGGTCGCATGTTCATGT
+
+>Not ambiguous another sequence identifier 2
+ACTCCGGTTGCATGATCACGT 
+
+>Not ambiguous another sequence identifier 3
+ACTCCGCTGGCATGGTCAAGT
+
+>Reverse not ambiguous 1
+TGTACTTGTACGCTGGCCTTA
+
+>Complement of not ambiguous 1
+TAAGGCCAGCGTACAAGTACA
+
+>Reverse of complement of not ambiguous 1
+ACATGAACATGCGACCGGAAT
+
+>Trasnlation of not ambiguous 1
+IPVACYC
+
+
