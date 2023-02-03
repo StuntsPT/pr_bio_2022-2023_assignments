@@ -1,0 +1,16 @@
+>Ambiguous_sequence_indentifier
+AACSTGGCCARDGCGCTATAM 
+>Unambiguous_sequence_identifier_01
+AACGTGGCCAAAGCGCTATAA 
+>Unambiguous_sequence_identifier_02
+AACCTGGCCAGTGCGCTATAC 
+>Unambiguous_sequence_identifier_03 
+AACCTGGCCAGGGCGCTATAA 
+>Reverse_of_Unambiguous_sequence_identifier_01
+AATATCGCGAAACCGGTGCAA 
+>Complement_of_Unambiguous_sequence_identifier_01
+TTGCACCGGTTTCGCGATATT 
+>Reverse_complement_of_Unambiguous_sequence_identifier_01
+TTATAGCGCTTTGGCCACGTT 
+>Translation_of_Unambiguous_sequence_identifier_01
+NVAKAL* 
