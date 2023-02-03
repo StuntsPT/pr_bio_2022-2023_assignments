@@ -1,0 +1,25 @@
+> Sequencia com ambiguidades
+AGCTBCCGTDAAGCVAGCTHA
+
+> 1 Sequencia com ambiguidades corrigidas
+AGCTCCCGTAAAGCGAGCTTA
+
+> 2 Sequencia com ambiguidades corrigidas
+AGCTTCCGTGAAGCAAGCTAA
+
+> 3 Sequencia com ambiguidades corrigidas
+AGCTGCCGTTAAGCCAGCTCA
+
+> Sequencia reversa da 2 correcao
+AATCGAACGAAGTGCCTTCGA
+
+> Sequencia complementar da 2 correcao
+TCGAAGGCACTTCGTTCGATT
+
+> Sequencia reversa da complementar da 2 correcao
+TTAGCTTGCTTCACGGAAGCT
+
+>IUPAC encoding
+SFREAS*
+
+
