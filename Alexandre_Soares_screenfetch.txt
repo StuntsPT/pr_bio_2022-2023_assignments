@@ -1,0 +1,18 @@
+[0m[1;32m                                      [0m[1;32m mint[0m[1m@[0m[0m[1;32mmint[0m
+[0m[1;32m MMMMMMMMMMMMMMMMMMMMMMMMMmds+.       [0m[1;32m OS:[0m Linuxmint 21 vanessa[0m
+[0m[1;32m MMm----::-://////////////oymNMd+`    [0m[1;32m Kernel:[0m x86_64 Linux 5.15.0-41-generic[0m
+[0m[1;32m MMd      [0m[1;37m/++                [0m[1;32m-sNMd:   [0m[1;32m Uptime:[0m 2h 1m[0m
+[0m[1;32m MMNso/`  [0m[1;37mdMM    `.::-. .-::.` [0m[1;32m.hMN:  [0m[1;32m Packages:[0m 2087[0m
+[0m[1;32m ddddMMh  [0m[1;37mdMM   :hNMNMNhNMNMNh: [0m[1;32m`NMm  [0m[1;32m Shell:[0m bash 5.1.16[0m
+[0m[1;32m     NMm  [0m[1;37mdMM  .NMN/-+MMM+-/NMN` [0m[1;32mdMM  [0m[1;32m Resolution:[0m 1024x768[0m
+[0m[1;32m     NMm  [0m[1;37mdMM  -MMm  `MMM   dMM. [0m[1;32mdMM  [0m[1;32m DE:[0m GNOME[0m
+[0m[1;32m     NMm  [0m[1;37mdMM  -MMm  `MMM   dMM. [0m[1;32mdMM  [0m[1;32m WM:[0m Muffin[0m
+[0m[1;32m     NMm  [0m[1;37mdMM  .mmd  `mmm   yMM. [0m[1;32mdMM  [0m[1;32m WM Theme:[0m Mint-Y-Dark (Mint-Y)[0m
+[0m[1;32m     NMm  [0m[1;37mdMM`  ..`   ...   ydm. [0m[1;32mdMM  [0m[1;32m GTK Theme:[0m Mint-Y [GTK2/3][0m
+[0m[1;32m     hMM- [0m[1;37m+MMd/-------...-:sdds  [0m[1;32mdMM  [0m[1;32m Icon Theme:[0m Mint-Y[0m
+[0m[1;32m     -NMm- [0m[1;37m:hNMNNNmdddddddddy/`  [0m[1;32mdMM  [0m[1;32m Font:[0m Ubuntu 10[0m
+[0m[1;32m      -dMNs-[0m[1;37m``-::::-------.``    [0m[1;32mdMM  [0m[1;32m Disk:[0m 11G / 27G (42%)[0m
+[0m[1;32m       `/dMNmy+/:-------------:/yMMM  [0m[1;32m CPU:[0m Intel Core i3-5005U @ 2x 1.995GHz[0m
+[0m[1;32m          ./ydNMMMMMMMMMMMMMMMMMMMMM  [0m[1;32m GPU:[0m llvmpipe (LLVM 13.0.1, 256 bits)[0m
+[0m[1;32m             \.MMMMMMMMMMMMMMMMMMM    [0m[1;32m RAM:[0m 964MiB / 1821MiB[0m
+[0m[1;32m                                      [0m

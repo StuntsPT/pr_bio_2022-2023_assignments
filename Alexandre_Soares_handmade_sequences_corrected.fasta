@@ -1,0 +1,18 @@
+>Ambiguous sequence
+ATG AWT CVG CAT CNA CYC TGA
+>Unambiguous_01
+ATG ATT CAG CAT CCA CTC TGA
+>Unambiguous_02
+ATG AAT CCG CAT CGA CCC TGA
+>Unambiguous_03
+ATG AAT CGG CAT CTA CCC TGA
+>Reverse of Unambiguous_01
+AGT CTC ACC TAC GAC TTA GTA
+>Complement of Unambiguous_01
+TAC TAA GTC GTA GGT GAG ACT
+>Reverse-complement of Unambiguous_01
+TCA GAG TGG ATG CTG AAT CAT
+>Translation of Unambiguous_01
+MIQHPL*
+
+
