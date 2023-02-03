@@ -1,0 +1,18 @@
+                                       madalena@madalena-VirtualBox
+ MMMMMMMMMMMMMMMMMMMMMMMMMmds+.        OS: Linuxmint 21 vanessa
+ MMm----::-://////////////oymNMd+`     Kernel: x86_64 Linux 5.15.0-41-generic
+ MMd      /++                -sNMd:    Uptime: 28m
+ MMNso/`  dMM    `.::-. .-::.` .hMN:   Packages: 2074
+ ddddMMh  dMM   :hNMNMNhNMNMNh: `NMm   Shell: bash 5.1.16
+     NMm  dMM  .NMN/-+MMM+-/NMN` dMM   Resolution: 1920x1080
+     NMm  dMM  -MMm  `MMM   dMM. dMM   DE: GNOME
+     NMm  dMM  -MMm  `MMM   dMM. dMM   WM: Muffin
+     NMm  dMM  .mmd  `mmm   yMM. dMM   WM Theme: Mint-Y-Dark (Mint-Y)
+     NMm  dMM`  ..`   ...   ydm. dMM   GTK Theme: Mint-Y [GTK2/3]
+     hMM- +MMd/-------...-:sdds  dMM   Icon Theme: Mint-Y
+     -NMm- :hNMNNNmdddddddddy/`  dMM   Font: Ubuntu 10
+      -dMNs-``-::::-------.``    dMM   Disk: 9,8G / 59G (18%)
+       `/dMNmy+/:-------------:/yMMM   CPU: 11th Gen Intel Core i5-1135G7 @ 2x 2.419GHz
+          ./ydNMMMMMMMMMMMMMMMMMMMMM   GPU: llvmpipe (LLVM 13.0.1, 256 bits)
+             \.MMMMMMMMMMMMMMMMMMM     RAM: 1088MiB / 5935MiB
+
