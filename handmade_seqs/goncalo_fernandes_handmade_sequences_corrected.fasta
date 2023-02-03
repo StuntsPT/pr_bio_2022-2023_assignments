@@ -1,0 +1,26 @@
+>Ambiguous_sequence
+CTTGASGVNGAACTTKAAGCC
+
+>Unambiguous_01
+CTTGAGGGCGAACTTGAAGCC
+
+>Unambiguous_02
+CTTGACGAAGAACTTGAAGCC
+
+>Unambiguous_03
+CTTGAGGCTGAACTTGAAGCC
+
+>Reverse of Unambiguous_02
+CCGAATTTCAAGAAGCAGTTC
+
+>Complement of Unambiguous_02
+GAACTGCTTCTTGAAATTCGG
+
+>Reverse-complement of Unambiguous_02
+GGCTTAAAGTTCTTCGTCAAG
+
+>Translation of Unambiguous_02
+LDEELEA
+
+
+
