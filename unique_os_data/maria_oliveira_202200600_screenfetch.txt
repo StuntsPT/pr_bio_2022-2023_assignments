@@ -1,0 +1,18 @@
+                                      mariaeduardaoliveira@mariaeduardaoliveira-VirtualBox
+ MMMMMMMMMMMMMMMMMMMMMMMMMmds+.        OS: Linuxmint 21 vanessa
+ MMm----::-://////////////oymNMd+`     Kernel: x86_64 Linux 5.15.0-41-generic
+ MMd      /++                -sNMd:    Uptime: 18m
+ MMNso/`  dMM    `.::-. .-::.` .hMN:   Packages: 2131
+ ddddMMh  dMM   :hNMNMNhNMNMNh: `NMm   Shell: bash 5.1.16
+     NMm  dMM  .NMN/-+MMM+-/NMN` dMM   Resolution: 800x600
+     NMm  dMM  -MMm  `MMM   dMM. dMM   DE: GNOME
+     NMm  dMM  -MMm  `MMM   dMM. dMM   WM: Muffin
+     NMm  dMM  .mmd  `mmm   yMM. dMM   WM Theme: Mint-Y-Dark (Mint-Y)
+     NMm  dMM`  ..`   ...   ydm. dMM   GTK Theme: Mint-Y [GTK2/3]
+     hMM- +MMd/-------...-:sdds  dMM   Icon Theme: Mint-Y
+     -NMm- :hNMNNNmdddddddddy/`  dMM   Font: Ubuntu 10
+      -dMNs-``-::::-------.``    dMM   Disk: 8,0G / 20G (43%)
+       `/dMNmy+/:-------------:/yMMM   CPU: Intel Core i5-10210U @ 2x 2.112GHz
+          ./ydNMMMMMMMMMMMMMMMMMMMMM   GPU: SVGA3D; build
+             \.MMMMMMMMMMMMMMMMMMM     RAM: 917MiB / 4715MiB
+
